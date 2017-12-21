@@ -2,10 +2,11 @@
 
 https://dev.mysql.com/doc/
 
+https://dev.mysql.com/doc/refman/5.7/en/tutorial.html
+
 https://www.w3schools.com/sql/ 
 
 https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial
-
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
