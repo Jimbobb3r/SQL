@@ -13,3 +13,5 @@ https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial
 https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
 
+## Cheat Sheet
+https://goo.gl/DMWfka 
